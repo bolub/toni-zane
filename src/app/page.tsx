@@ -24,7 +24,7 @@ export default function Home() {
               Welcome to the world of
             </chakra.p>
             <chakra.h1 fontSize="6xl" fontWeight={600} lineHeight="normal">
-              Toni Zane
+              Toni-Zane
             </chakra.h1>
             <chakra.p fontSize="lg" fontWeight={400} w="100%" maxW={500} mt={6}>
               Step into a magical world of imagination where stories come alive!

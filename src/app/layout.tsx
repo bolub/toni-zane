@@ -9,8 +9,8 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Toni Zane",
-  description: "Toni Zane's personal website",
+  title: "Toni-Zane",
+  description: "Toni-Zane's personal website",
 };
 
 export default function RootLayout({
